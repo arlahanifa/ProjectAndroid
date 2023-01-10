@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="item1" type="id" />
+    <item name="item2" type="id" />
+    <item name="item3" type="id" />
+    <item name="item4" type="id" />
+    <item name="item5" type="id" />
+    <item name="item6" type="id" />
+    <item name="item7" type="id" />
+    <item name="item8" type="id" />
+    <item name="item9" type="id" />
+    <item name="item10" type="id" />
+    <item name="tv_MainActHeader" type="id" />
+    <item name="btn_addItem" type="id" />
+    <item name="tv_SecondActHeader" type="id" />
+    <item name="btn_apple" type="id" />
+    <item name="btn_manggo" type="id" />
+</resources>
